@@ -15,7 +15,7 @@ Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
 [compat]
-Catalyst = "7"
+Catalyst = "7, 9"
 DifferentialEquations = "6"
 Parameters = "0.12"
 Plots = "1"
